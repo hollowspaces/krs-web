@@ -1,3 +1,15 @@
+## Project Akhir UAS Pemrograman Web E-KRS
+
+Anggota Kelompok : 
+- Ikhlassul Jannah  (20190801125)
+- Fathinatul Husnah (20190801222)
+- Muhamad Saddam    (20190801225)
+- Sri Puji Astuti   (20190801276)
+
+Dosen Pengampu : Bapak Jefry Sunupurwa Asri, S.Kom., M.Kom.
+
+##
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
