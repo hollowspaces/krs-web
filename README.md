@@ -1,4 +1,4 @@
-## Project Akhir UAS Pemrograman Web E-KRS
+## Project Akhir Pemrograman Web E-KRS
 
 Anggota Kelompok : 
 - Ikhlassul Jannah  (20190801125)
